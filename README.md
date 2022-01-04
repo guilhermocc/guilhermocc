@@ -3,7 +3,7 @@
 - Currently working with open source projects that enable multiplayer features in mostly all games of Wildlife Studios, the biggest mobile games company in latin america. Using a lot of golang and kubernetes
 - Worked on several projects with financial and pricing domain, using ruby and kotlin.
 
-### Things I'm currently studying
+### Things I'm currently studying 📚
 - Functional programming (and purely functional languages)
 - Microservices patterns
 - Design patterns
