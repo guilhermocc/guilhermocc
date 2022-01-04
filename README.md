@@ -1,3 +1,9 @@
+## About me
+22 years old software development engineer with 3 years of professional experience, currently studying golang and rust.
+
+Worked on several projects with financial and pricing domain, using ruby and kotlin.
+
+Currently working with open source projects that enable multiplayer features is mostly all games of Wildlife Studios, using golang.
 
 ## Contribution Graph 🐍
 ![snake gif](https://github.com/GuilhermBrSp/GuilhermBrSp/blob/output/github-contribution-grid-snake.svg)
