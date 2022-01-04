@@ -1,6 +1,6 @@
 ## About me 🧑‍💻
 - 22 years old software development engineer with 3 years of professional experience.
-- Currently working with open source projects that enable multiplayer features is mostly all games of Wildlife Studios, the biggest mobile games company in latin america. Using a lot of golang and kubernetes
+- Currently working with open source projects that enable multiplayer features in mostly all games of Wildlife Studios, the biggest mobile games company in latin america. Using a lot of golang and kubernetes
 - Worked on several projects with financial and pricing domain, using ruby and kotlin.
 
 ### Things I'm currently studying
