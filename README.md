@@ -1,9 +1,17 @@
-## About me
-22 years old software development engineer with 3 years of professional experience, currently studying golang and rust.
+## About me 🧑‍💻
+- 22 years old software development engineer with 3 years of professional experience.
+- Currently working with open source projects that enable multiplayer features is mostly all games of Wildlife Studios, the biggest mobile games company in latin america. Using a lot of golang and kubernetes
+- Worked on several projects with financial and pricing domain, using ruby and kotlin.
 
-Worked on several projects with financial and pricing domain, using ruby and kotlin.
-
-Currently working with open source projects that enable multiplayer features is mostly all games of Wildlife Studios, using golang.
+### Things I'm currently studying
+- Functional programming (and purely functional languages)
+- Microservices patterns
+- Design patterns
+- Multiplayer games architecture
+- Domain driven design
+- Rust
+- Golang
+- Kubernetes
 
 ## Contribution Graph 🐍
 ![snake gif](https://github.com/GuilhermBrSp/GuilhermBrSp/blob/output/github-contribution-grid-snake.svg)
