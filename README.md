@@ -12,7 +12,7 @@
 ![snake gif](https://github.com/guilhermocc/guilhermocc/blob/output/github-contribution-grid-snake.svg)
 
 
-## Programming statistics 📊
+## Contribution statistics 📊
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermocc&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
