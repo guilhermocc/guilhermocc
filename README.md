@@ -1,8 +1,11 @@
 ### Things I'm currently studying 📚
+- Cloud native computer foundation ecosystem
+- Public Key infrastructure
+- Zero trust networks
+- Cyber security
 - Functional programming (and purely functional languages)
 - Microservices patterns
 - Design patterns
-- Multiplayer games architecture
 - Domain driven design
 - Rust
 - Golang
