@@ -1,4 +1,4 @@
-### Things I'm currently studying 📚
+## Things I'm currently studying 📚
 - Cloud native computer foundation ecosystem
 - Public Key infrastructure
 - Zero trust networks
