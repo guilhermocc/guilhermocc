@@ -11,10 +11,6 @@
 - Golang
 - Kubernetes
 
-## Contribution Graph 🐍
-![snake gif](https://github.com/guilhermocc/guilhermocc/blob/output/github-contribution-grid-snake.svg)
-
-
 ## Contribution statistics 📊
 
 <p align = "center">
