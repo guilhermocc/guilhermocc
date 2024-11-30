@@ -1,15 +1,7 @@
-## Things I'm currently studying 📚
-- Cloud native computer foundation ecosystem
-- Public Key infrastructure
-- Zero trust networks
-- Cyber security
-- Functional programming (and purely functional languages)
-- Microservices patterns
-- Design patterns
-- Domain driven design
-- Rust
-- Golang
-- Kubernetes
+## About me
+I am passionate about technology and mathematics, with 6 years of professional experience as a software engineer, in which I was able to participate in different projects with the most varied domains and technologies. Experience with frontend and mobile (hybrid) development, specializing in backend.
+
+Currently working with cloud-native projects development.
 
 ## Contribution statistics 📊
 
